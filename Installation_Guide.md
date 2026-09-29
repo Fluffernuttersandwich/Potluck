@@ -88,9 +88,11 @@ Some Stardew Valley mods or previous setups may leave files outside the main Ste
 
 Check your Stardew Valley-related folders under Windows **AppData** and remove any old `Mods` folder or previously installed mod files that could be loaded independently of Potluck.
 
-Potluck should not be mixed with a second collection of mods stored outside its MO2 installation.
+Windows key + R will open the Windows Run prompt. Paste `%AppData%\StardewValley` into the Run prompt and hit Enter (or Ok). 
 
-If you intentionally keep backups of old mods, store them somewhere that Stardew Valley and SMAPI will not treat as an active mod directory.
+If you intentionally keep backups of old mods, store them somewhere that Stardew Valley and SMAPI will not treat as an active mod directory. If you see a Mods folder in this AppData folder section, delete it.
+
+Potluck should not be mixed with a second collection of mods stored outside its MO2 installation.
 
 ---
 
@@ -108,7 +110,7 @@ Installing another copy manually can create conflicts and makes troubleshooting 
 
 **Do not download or install your own copy of Mod Organizer 2 for Potluck.**
 
-Wabbajack installs the correct portable MO2 environment as part of Potluck.
+Wabbajack installs the correct portable MO2 environment for Stardew Valley as part of Potluck.
 
 Always launch Potluck using the copy of Mod Organizer 2 provided with the mod list.
 
