@@ -33,7 +33,7 @@
 
 > A meal where everyone brings something to share.
 
-> A suspiciously large assortment of Stardew Valley mods brought together by FinFNS.
+> A modular buffet table of Stardew Valley mods brought together by FinFNS.
 
 ---
 
