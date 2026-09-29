@@ -54,7 +54,8 @@ Before installing Potluck:
 1. Open Vortex.
 2. Disable all Stardew Valley mods.
 3. Purge deployed Stardew Valley mods.
-4. Confirm Vortex is no longer managing or deploying files into your Stardew Valley installation.
+4. Run Deploy.
+5. Confirm Vortex is no longer managing or deploying files into your Stardew Valley installation.
 
 **Do not leave Vortex-managed Stardew Valley mods enabled or deployed while using Potluck.**
 
