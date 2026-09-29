@@ -1,6 +1,13 @@
 # 🍲 Potluck Troubleshooting
 
-If Potluck is not working correctly, first determine whether the problem occurs with the supplied **Default profile**.
+💬 Getting Support
+Potluck support is provided through the **Smörgåsbord Discord Server** under the Potluck category and its related support channels.
+
+Discord: https://discord.gg/Ay2pVZHE7S
+
+When you land in the Smorgasbord Discord Server, you must acknowledge the Rules post in the `#welcome` channel. 
+
+Before requesting help, please work through the basic troubleshooting steps below and collect the appropriate logs. Providing useful information and logs makes it much easier to identify the problem.
 
 ---
 
@@ -17,15 +24,15 @@ If Potluck is not working correctly, first determine whether the problem occurs 
 
 ## Start With the Default Profile
 
-The Potluck **Default profile** is the primary troubleshooting baseline.
+The **Potluck profile** is the primary troubleshooting baseline.
 
 If you encounter a problem:
 
-1. Switch to the Default profile.
+1. Switch to the Potluck profile.
 2. Do not add, remove, update, enable, or disable anything.
 3. Reproduce the problem.
 
-If the issue occurs on Default, it may be a Potluck problem.
+If the issue occurs on the Potluck profile, the issue might be with the Mod List.
 
 If it only occurs on your customized profile, the problem is likely related to your changes.
 
