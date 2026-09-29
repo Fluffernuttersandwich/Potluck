@@ -19,6 +19,36 @@ Always read the revision notes before updating.
 
 ## Before Updating
 
+### Protect Custom Mods and Profiles with the `[NoDelete]` prefix.
+
+Wabbajack updates will remove files and folders that are not part of the official Potluck installation.
+
+If you create your own **MO2 Profile** or add your own **off-list mods**, you must protect them by adding the prefix:
+
+`[NoDelete]`
+
+to the **beginning of the folder name**.
+
+For example:
+
+```text
+[NoDelete] My Personal Profile
+[NoDelete] My Added Mod
+```
+
+Use `[NoDelete]` for:
+
+- Any MO2 profile you create yourself.
+- Any mod you personally add to Potluck.
+
+This tells Wabbajack not to delete those folders when updating the list.
+
+> **Important:** `[NoDelete]` protects the folder from deletion. It does **not** guarantee that your custom profile or added mods will remain compatible with a newer Potluck revision.
+
+After updating, review your custom profile, and check the revision notes for changes that may affect your additions.
+
+---
+
 Before installing a new Potluck revision:
 
 1. Read the revision notes.
@@ -42,7 +72,7 @@ This gives you a way to return to your previous setup if an updated, added, or r
 
 The supplied **Potluck profile** may be changed by an update.
 
-If you customize the mod list, use your own MO2 Profile rather than modifying the Potluck Profile.
+If you customize the mod list, use your own MO2 Profile rather than modifying the Potluck Profile. Remember to use the [NoDelete] prefix!
 
 Before updating, make note of any personal changes or off-list mods you have added.
 
