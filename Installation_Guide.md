@@ -20,7 +20,7 @@ This guide covers installing **Potluck** through Wabbajack.
 
 ## Before You Begin
 
-Potluck expects a **clean, fresh Steam installation of Stardew Valley**.
+Potluck expects a **clean, fresh Steam installation of Stardew Valley on Windows 10 or 11**.
 
 Do not install Potluck over an existing manually modded, Vortex-managed, or SMAPI-modded game installation.
 
