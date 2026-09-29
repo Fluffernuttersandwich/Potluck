@@ -40,9 +40,9 @@ This gives you a way to return to your previous setup if an updated, added, or r
 
 ## Protect Your Customizations
 
-The supplied **Default profile** belongs to Potluck and may be changed by an update.
+The supplied **Potluck profile** may be changed by an update.
 
-If you customize Potluck, use your own MO2 profile rather than modifying Default.
+If you customize the mod list, use your own MO2 Profile rather than modifying the Potluck Profile.
 
 Before updating, make note of any personal changes or off-list mods you have added.
 
@@ -58,6 +58,8 @@ Before updating, make note of any personal changes or off-list mods you have add
 6. Allow Wabbajack to update the list.
 
 Wabbajack will reuse files it already has whenever possible and download files that have changed.
+
+It's normal if it asks you to delete hundreds or thousands of files during this update process. Hit ok.
 
 ---
 
@@ -80,3 +82,5 @@ The release notes will identify updates that require a new game or have known sa
 **When a new save is required, do not continue an existing save on that revision.**
 
 When an update is expected to be save-safe, making a backup is still strongly recommended.
+
+Unless there is the necessity for a hotfix, you are under no obligation to update the Mod List. Do not FOMO, wait until you want to start a new save before updating.
