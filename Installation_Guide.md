@@ -116,31 +116,100 @@ Always launch Potluck using the copy of Mod Organizer 2 provided with the mod li
 
 ---
 
+# 📦 Install Wabbajack
+
+Download the latest version of the Wabbajack application from:
+
+https://www.wabbajack.org/
+
+Open Wabbajack and sign into **Nexus Mods** when prompted.
+
+
+<img width="2136" height="970" alt="image" src="https://github.com/user-attachments/assets/eb91534e-1664-452d-b24f-8921a4f32fe0" />
+
+> [!TIP]
+> Keep the Wabbajack application installation and your mod list outside Windows-protected folders.
+
+Avoid installing Wabbajack or the Potluck modlist into locations such as:
+
+``` text
+C:\Program Files\
+C:\Program Files (x86)\
+C:\Users\<You>\Documents\
+C:\Users\<You>\Desktop\
+C:\Users\<You>\OneDrive\
+```
+
+You _cannot_ run the wabbajack.exe from: 
+``` text
+C:\
+```
+
+
+I'd recommend creating a folder like one of these for installing the wabbajack.exe file into like this:
+``` text
+C:\Wabbajack
+or
+D:\Wabbajack
+```
+
+
+<img width="1414" height="748" alt="image" src="https://github.com/user-attachments/assets/10369f77-189e-4009-a204-d78c112d7fe0" />
+
+
+Do **not** use your Stardew Valley game directory as the Potluck installation location. 
+
+Do not run the wabbajack.exe from your game directory either!
+
+------------------------------------------------------------------------
+
+### Create the Potluck Installation Folder
+
+A simple folder near the root of an SSD is recommended.
+
+Choose one like the Examples below:
+
+``` text
+C:\Wabbajack_ModLists\Potluck
+or
+D:\Wabbajack_ModLists\Potluck
+or
+E:\Potluck
+```
+
+Your Wabbajack folder, Potluck installation folder, and vanilla Stardew Valley game installation are all **separate locations**.
+
+---
+
 ## Install Potluck
 
-1. Download and launch **Wabbajack**.
-2. Select **Potluck**.
-3. Choose your Potluck installation location.
-4. Choose a download location.
-5. Start the installation.
-6. Allow Wabbajack to complete the installation.
+1. Launch **Wabbajack**.
+2. Gears icon. Confirm you are signed into your NexusMods account within the Wabbajack app.
+3. Browse Lists tab > Search for Stardew Valley
+4. Select **Potluck**.
+5. Choose your Potluck installation location. Must not be a protected Windows folder. 
+6. Wabbajack will populate a downloads folder within the installation folder.
+7. Start the installation process.
+8. Allow Wabbajack to complete the installation.
 
-A **Nexus Mods Premium** account is strongly recommended for automated downloads.
-
-Do not install Potluck directly inside the Stardew Valley game directory.
+A **Nexus Mods Premium** account is strongly recommended for automated downloads. Free accounts require hours of clicking.
 
 ---
 
 ## Launch Potluck
 
 1. Open the Potluck installation folder.
-2. Launch the included **Mod Organizer 2**.
+2. Launch the included **Mod Organizer 2** exe file.
 3. Use the supplied **Potluck default profile**.
 4. Launch Stardew Valley using the configured Potluck/SMAPI executable inside MO2.
 
 For your first launch, do not add, remove, update, or disable mods.
 
 Confirm the default Potluck installation works correctly before customizing it.
+
+
+> [!TIP]
+> With MO2 open, pin it to your system tray. Or, make a shortcut on your desktop for easy access.
 
 ---
 
