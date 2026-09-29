@@ -20,12 +20,12 @@ Potluck is designed to be modular, but the supplied **Default profile** is the c
 
 Before changing Potluck:
 
-1. Launch and test the supplied **Default profile** first.
-2. Confirm Potluck works correctly.
-3. Create your own MO2 profile.
+1. Launch and test the supplied **Potluck profile** first.
+2. Confirm **Potluck** works correctly.
+3. Then you can copy the Potluck Profile to create your own MO2 Profile.
 4. Make your changes there.
 
-**Do not customize the Default profile.** Keeping it unchanged gives you a known-good configuration for testing and troubleshooting.
+**Do not customize the Profile profile.** Keeping it unchanged gives you a known-good configuration for testing and troubleshooting.
 
 ---
 
@@ -39,6 +39,8 @@ Notes may identify:
 - Incompatibilities
 - Recommended options
 - Important configuration information
+- Keybinds
+- Useful tips
 
 **Read the Notes before enabling or disabling a mod.**
 
@@ -72,9 +74,11 @@ The checker can identify **known rules**, but it cannot guarantee that every pos
 
 You are welcome to add mods that are not included with Potluck.
 
-Install them through **Mod Organizer 2** rather than manually placing them into the Stardew Valley game directory or AppData Mods folders.
+However, any mod you add to your game that introduces errors or breaks a save is your problem. I only vouch safe the Potluck Profile. 
 
-Off-list mods are not tested as part of Potluck and may introduce conflicts or other problems.
+you can install additional mods through **Mod Organizer 2** rather than manually placing them into the Stardew Valley game directory or AppData Mods folders.
+
+Off-list mods are not tested as part of Potluck and may introduce conflicts or other problems. These are your problems to resolve, I will not offer support for off-list mods.
 
 ---
 
@@ -92,8 +96,8 @@ When in doubt, make a backup first.
 
 ## Getting Support
 
-If you encounter a problem after customizing Potluck, first reproduce the issue using the unchanged **Default profile**.
+If you encounter a problem after customizing Potluck, first reproduce the issue using the unchanged **Potluck Profile**.
 
-If the problem does not occur on Default, the issue is likely related to your customized configuration.
+If the problem does not occur on the as-delivered Potluck Profile, the issue is likely related to your customized configuration.
 
 When asking for help, clearly identify any mods you have added, removed, updated, enabled, or disabled.
