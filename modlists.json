@@ -1,36 +1,42 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Potluck",
-    "description": "A modular Vanilla+ Wabbajack mod list for Stardew Valley.",
+    "description": "A modular Vanilla\u002B Wabbajack mod list for Stardew Valley.",
     "author": "FinFNS",
     "maintainers": [
       "github/Fluffernuttersandwich"
     ],
     "game": "stardewvalley",
+    "official": false,
     "tags": [
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Potluck/main/assets/branding/Potluck_Banner_2.png",
       "readme": "https://github.com/Fluffernuttersandwich/Potluck/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Potluck.wabbajack_1761ee70-cce6-48a8-b76d-705929fbef14",
+      "download": "https://authored-files.wabbajack.org/Potluck.wabbajack_9cd7bf8f-94cd-45f8-a93b-ea6522ed49f8",
       "machineURL": "Potluck",
-      "discordURL": "https://discord.gg/Ay2pVZHE7S"
+      "discordURL": "https://discord.gg/Ay2pVZHE7S",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "S+lXsX+jEQY=",
-      "Size": 5778414,
-      "NumberOfArchives": 334,
-      "SizeOfArchives": 563258071,
-      "NumberOfInstalledFiles": 25403,
-      "SizeOfInstalledFiles": 1433150185
+      "Hash": "W1na5hfh51I=",
+      "Size": 5822567,
+      "NumberOfArchives": 339,
+      "SizeOfArchives": 1016379552,
+      "NumberOfInstalledFiles": 25406,
+      "SizeOfInstalledFiles": 1917769734,
+      "TotalSize": 2934149286
     },
-    "version": "1.6.15.1"
+    "version": "1.6.15.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-10-02T23:03:58.4743396Z",
+    "repositoryName": ""
   }
 ]
