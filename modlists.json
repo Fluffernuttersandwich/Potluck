@@ -23,7 +23,12 @@
       "machineURL": "Potluck",
       "discordURL": "https://discord.gg/Ay2pVZHE7S",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "518539",
+        "slug": "1mijmx",
+        "domainName": "stardewvalley",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "W1na5hfh51I=",
